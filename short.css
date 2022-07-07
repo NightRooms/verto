@@ -43,3 +43,7 @@ body{
 
     counter-reset: count 2;
   }
+
+#sorry {
+    color : white;
+}
