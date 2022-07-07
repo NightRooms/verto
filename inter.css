@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+    margin-top: 230px;
+    margin-left: 390px;
+    font-size:50px;
+    animation: death 8s;
+}
+
+@keyframes death {
+    0% {opacity: 0}
+    100% {opacity: 1}
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: black !important;
+}
+
+#q{
+    color: white;
+    margin-top: 200px;
+    margin-left: 360px;
+}
+
+#yes,#no{
+    border-radius: 10px;
+}
+
+#yes{
+    margin-left: 460px;
+}

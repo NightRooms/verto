@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+div {
+    color : white;
+    margin-top: 120px;
+    margin-left: 300px;
+    font-size: 40px;
+}

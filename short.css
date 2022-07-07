@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+
+#short {
+    color: white;
+    font-size: 20px;
+    margin-left: 360px;
+}
+
+#pass {
+    color: white;
+}
+
+#divpa::after {
+    color: white;
+    font: 800 40px system-ui;
+    content: counter(count);
+
+    counter-reset: count 20;
+  }
+
+#info {
+    color: white;
+}
+
+#divak::after {
+    color: white;
+    font: 800 40px system-ui;
+    content: counter(count);
+
+    counter-reset: count 36;
+  }
+
+#demons{
+    color: rgb(140, 8, 8);
+}
+
+#divuk:after {
+    color: rgb(143, 12, 12);
+    font: 800 40px system-ui;
+    content: counter(count);
+
+    counter-reset: count 2;
+  }
